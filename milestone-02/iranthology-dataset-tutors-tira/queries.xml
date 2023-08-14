@@ -1,0 +1,78 @@
+<topics ir-datasets-id="iranthology-tutors">
+ <topic number="1">
+  <query>
+   detect health-related queries
+  </query>
+  <original_query>
+   <query_id>
+    1
+   </query_id>
+   <title>
+    detect health-related queries
+   </title>
+   <description>
+    How can an algorithm detect health-related queries? E.g., so that the search engine ensures that no harmful results are shown.
+   </description>
+   <narrative>
+    A paper is relevant if it discusses algorithms to detect health-related queries.
+   </narrative>
+  </original_query>
+ </topic>
+ <topic number="2">
+  <query>
+   large language models for query expansion
+  </query>
+  <original_query>
+   <query_id>
+    2
+   </query_id>
+   <title>
+    large language models for query expansion
+   </title>
+   <description>
+    How can large language models be used for query expansion?
+   </description>
+   <narrative>
+    A paper is relevant if it discusses LLMs to expand a given user query.
+   </narrative>
+  </original_query>
+ </topic>
+ <topic number="3">
+  <query>
+   datasets for web search
+  </query>
+  <original_query>
+   <query_id>
+    3
+   </query_id>
+   <title>
+    datasets for web search
+   </title>
+   <description>
+    I look for a benchmark dataset for testing web search engines. what such datasets are available?
+   </description>
+   <narrative>
+    A paper is relevant if it describes a dataset, potentially a web crawl that can be used to evaluate retrieval algorithms. If the datasets comes with relevance judgments, it is highly relevant.
+   </narrative>
+  </original_query>
+ </topic>
+ <topic number="4">
+  <query>
+   known item search for movies
+  </query>
+  <original_query>
+   <query_id>
+    4
+   </query_id>
+   <title>
+    known item search for movies
+   </title>
+   <description>
+    I want to support users that want to refind moves. E.g., if a user watched a movie as child, and now wants to find the movie again, but maybe forgot the title.
+   </description>
+   <narrative>
+    A paper is relevant if it describes approaches for known item search or refinding tasks in the domain of movies.
+   </narrative>
+  </original_query>
+ </topic>
+</topics>
