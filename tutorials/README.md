@@ -14,7 +14,7 @@ To run the tutorials on your machine, please:
 
 ### Content
 
-- [tutorial-01-ir-datasets.ipynb](Tutorial 1: Topics, Documents, and Relevance Judgments) (Open in [tutorial-01-ir-datasets.ipynb](Github) or [Google Colab](https://colab.research.google.com/drive/1oWh9nFT6ZsGfZLRDG1QrwUgyMIzLbw_H?usp=sharing))
+- [Tutorial 1: Topics, Documents, and Relevance Judgments](tutorial-01-ir-datasets.ipynb) (Open in [tutorial-01-ir-datasets.ipynb](Github) or [Google Colab](https://colab.research.google.com/drive/1oWh9nFT6ZsGfZLRDG1QrwUgyMIzLbw_H?usp=sharing))
 
 ### Changes to the Dev-Container
 
