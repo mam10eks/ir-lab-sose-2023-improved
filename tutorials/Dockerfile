@@ -8,4 +8,4 @@ RUN apt-get update \
 	&& rm -Rf /var/cache/apt \
 	&& rm -Rf /root/.cache/pip \
 	&& pip3 install tira python-terrier chatnoir-api \
-	&& python3 -c 'import pyterrier as pt; pt.init()'
+	&& python3 -c 'import pyterrier as pt; pt.init(boot_packages=["com.github.terrierteam:terrier-prf:-SNAPSHOT"])'
