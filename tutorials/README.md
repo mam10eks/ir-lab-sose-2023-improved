@@ -21,7 +21,7 @@ For tutors: The tutor repository contains a directory [sample-solutions](sample-
 - [Tutorial 3 (in progress by Maik): Stemming](tutorial-03-stemming.ipynb) (Open in [GitHub](tutorial-03-stemming.ipynb) or ToDo Add Google Colab)
 - [Tutorial 4 (in progress by Maik): Lemmatization](tutorial-04-lemmatization.ipynb) (Open in [GitHub](tutorial-04-lemmatization.ipynb) or ToDo Add Google Colab)
 - [Tutorial 5: Query Expansion](tutorial-05-query-expansion.ipynb) (Open in [GitHub](tutorial-05-query-expansion.ipynb) or ToDo Add Google Colab)
-
+- Tutorial 8: Query Segmentation (In progress by Maik)
 - [Tutorial 9 (research oriented): Query Expansion with LLMs](tutorial-09-query-expansion-with-llms.ipynb) (Open in [GitHub](tutorial-09-query-expansion-with-llms.ipynb) or ToDo Add Google Colab)
 
 ### Changes to the Dev-Container
