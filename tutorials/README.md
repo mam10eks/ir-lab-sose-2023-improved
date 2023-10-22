@@ -14,7 +14,13 @@ To run the tutorials on your machine, please:
 
 ### Content
 
-- [Tutorial 1: Topics, Documents, and Relevance Judgments](tutorial-01-ir-datasets.ipynb) (Open in [tutorial-01-ir-datasets.ipynb](Github) or [Google Colab](https://colab.research.google.com/drive/1oWh9nFT6ZsGfZLRDG1QrwUgyMIzLbw_H?usp=sharing))
+For tutors: The tutor repository contains a directory [sample-solutions](sample-solutions) with all solutions.
+
+- [Tutorial 1: Topics, Documents, and Relevance Judgments](tutorial-01-ir-datasets.ipynb) (Open in [GitHub](tutorial-01-ir-datasets.ipynb) or [Google Colab](https://colab.research.google.com/drive/1oWh9nFT6ZsGfZLRDG1QrwUgyMIzLbw_H?usp=sharing))
+- [Tutorial 2: Stopword Lists](tutorial-02-stopword-lists.ipynb) (Open in [GitHub](tutorial-02-stopword-lists.ipynb) or ToDo Add Google Colab)
+- [Tutorial 3 (in progress by Maik): Stemming](tutorial-03-stemming.ipynb) (Open in [GitHub](tutorial-03-stemming.ipynb) or ToDo Add Google Colab)
+- [Tutorial 4 (in progress by Maik): Lemmatization](tutorial-04-lemmatization.ipynb) (Open in [GitHub](tutorial-04-lemmatization.ipynb) or ToDo Add Google Colab)
+
 
 ### Changes to the Dev-Container
 
